@@ -1,5 +1,5 @@
-Component: 'Accordion'
-Author: Alexandr Sashin
+Component: 'Accordion'  
+Author: Alexandr Sashin  
 Demo: http://plnkr.co/edit/fgrPhdgEm3vSRhXlwv6r?p=preview
 
 Options: 
